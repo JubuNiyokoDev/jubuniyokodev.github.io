@@ -376,6 +376,10 @@ yieldmo.com, 2754490424016969782, RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
 yieldnexus.com, 96204, RESELLER
 zetaglobal.net, 767, RESELLER
+adtonos.com.PUB927721623.RESELLER
+lijit.com, 411121, RESELLER, fafdf38b16bf6b2b#SOVRN
+pubmatic.com, 159277, RESELLER,
+rubiconproject.com, 27945, RESELLER,
 
 # Additional entries (Meta, Unity, AdMob resellers)
 adagio.io, 1522, RESELLER
