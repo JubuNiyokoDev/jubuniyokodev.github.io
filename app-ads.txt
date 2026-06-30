@@ -21,6 +21,10 @@ smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
 smaato.com, 1100057628, RESELLER, 07bcf65f187117b4
 uis.mobfox.com, 2206, RESELLER, 5529a3d1f59865be
 video.unrulymedia.com, 905340553, RESELLER
+indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
+taurusx.com, 80654, RESELLER
+triplelift.com, 12240, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 3890682751, RESELLER
 
 # TopOn ADX — Other Lines (DSPs)
 33across.com, 0010b00002Xbn7QAAR, RESELLER, bbea06d9c4d2853c
